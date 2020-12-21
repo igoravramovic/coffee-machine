@@ -1,0 +1,5 @@
+machine/CoffeeMachine.java
+ machine.CoffeeMachine
+ machine.CoffeeMachineClass
+ machine.CoffeeMachineClass$1
+ machine.CoffeeMachineStates
